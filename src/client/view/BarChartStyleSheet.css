@@ -1,0 +1,15 @@
+.chart-title {
+    	-fx-text-fill: #ffffff;
+}
+.axis-label {
+  	-fx-text-fill: #ffffff;
+}
+.axis {
+  	-fx-tick-label-fill: #ffffff;
+}
+.default-color0.chart-bar {
+	-fx-bar-fill: #1ec4dc;
+}
+.default-color1.chart-bar {
+	-fx-bar-fill: #E0E0E0;
+}

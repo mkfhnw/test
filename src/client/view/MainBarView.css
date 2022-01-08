@@ -1,0 +1,91 @@
+.mainBarView {
+ 	-fx-padding: 15px;
+}
+.lupe {
+	-fx-spacing: 10px;
+}
+.searchButton {
+	-fx-background-color: #101b53;
+}
+.searchButton:hover {
+	-fx-background-color: #1ec4dc;
+}
+.searchField {
+	-fx-spacing: 10px;
+	-fx-font: 12px "Verdana";
+}
+.createToDo {
+	-fx-background-color: #101b53;
+	-fx-text-fill: #ffffff;
+	-fx-spacing: 100px;
+}
+.createToDo:hover {
+	-fx-background-color: #1ec4dc;
+}
+.tableView {
+ 	-fx-background-color: #ffffff;
+	-fx-text-fill: #121d58;
+	-fx-border-style: solid;
+    -fx-font: 11px "Verdana";
+
+}
+.tableView .column-header {
+	-fx-background-color: #F7F7F7;
+	-fx-font: 12px "Verdana";
+	-fx-font-weight: bold;
+	-fx-text-fill: BLACK;
+}
+.tableColumn {
+	-fx-background-color: #EDEDED;
+	-fx-text-fill: #121d58;
+	-fx-font: 12px "Verdana";
+}
+.checkBox {
+    -fx-background-color: #ffffff;
+	-fx-text-fill: #121d58;
+	-fx-alignment: CENTER;
+	-fx-font: 12px "Verdana";
+}
+.task {
+    	-fx-background-color: #ffffff;
+	-fx-text-fill: #121d58;
+	-fx-alignment: CENTER;
+}
+.dueDate {
+    	-fx-background-color: #ffffff;
+	-fx-text-fill: #121d58;
+	-fx-alignment: CENTER;
+}
+.priority {
+    	-fx-background-color: #ffffff;
+	-fx-text-fill: #121d58;
+	-fx-alignment: CENTER;
+}
+.important {
+    	-fx-background-color: #ffffff;
+	-fx-text-fill: #121d58;
+	-fx-alignment: CENTER;
+}
+.garbage {
+ 	-fx-background-color: #ffffff;
+	-fx-text-fill: #121d58;
+	-fx-alignment: CENTER;
+}
+.comboBox {
+	-fx-background-color: #101b53;
+	-fx-font: 12px "Verdana";
+}
+.combo-box .list-cell {
+	-fx-text-fill: #ffffff;
+	-fx-background-color: #101b53;
+}
+.combo-box:hover {
+	-fx-background-color: #1ec4dc;
+}
+.combo-box .list-cell:hover {
+	-fx-background-color: #1ec4dc;
+}
+.combo-box .arrow {
+	-fx-background-color: #ffffff;
+}
+

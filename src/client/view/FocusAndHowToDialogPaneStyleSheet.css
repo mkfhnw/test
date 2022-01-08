@@ -1,0 +1,40 @@
+.closeButtonType {
+	-fx-background-color: #101b53;
+    	-fx-text-fill: #ffffff;
+}
+.slider .track {
+	-fx-background-color: #1ec4dc;
+	-fx-pref-height: 4;
+}
+.slider .thumb{
+	-fx-background-color: #101b53;
+	-fx-pref-height: 15; 
+}
+.root {
+	-fx-background-color: #ffffff;
+}
+.button {
+    -fx-background-color: #1ec4dc;
+    -fx-text-fill: #ffffff;
+    -fx-font: 11px "Verdana";
+   	-fx-font-weight: bold;
+}
+.login {
+    -fx-background-color: linear-gradient(to top, #1EC4DA, #1EC4DC);
+    -fx-text-fill: #ffffff;
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+    -fx-font: 14px "Verdana";
+    -fx-font-weight: bold;
+}
+.button:hover {
+    	-fx-border-size: 3px;
+	-fx-border-radius: 2px;
+	-fx-border-color: #101b53;
+}
+
+.successfulPing {
+	-fx-background-color: green;
+}
+.badPing {
+	-fx-background-color: #FF0000;
+}
